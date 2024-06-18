@@ -1,0 +1,2 @@
+RESTORES  15  HP
+

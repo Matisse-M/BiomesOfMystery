@@ -1,0 +1,7 @@
+/home/matsse/EPITECH/tek1/MUL/MyRPG/asset_content_bom/ressources/quest5.txt
+/home/matsse/EPITECH/tek1/MUL/MyRPG/asset_content_bom/ressources/quest6.txt
+/home/matsse/EPITECH/tek1/MUL/MyRPG/asset_content_bom/ressources/quest7.txt
+/home/matsse/EPITECH/tek1/MUL/MyRPG/asset_content_bom/ressources/quest8.txt
+/home/matsse/EPITECH/tek1/MUL/MyRPG/asset_content_bom/ressources/quest9.txt
+/home/matsse/EPITECH/tek1/MUL/MyRPG/asset_content_bom/ressources/quest10.txt
+/home/matsse/EPITECH/tek1/MUL/MyRPG/asset_content_bom/ressources/quest11.txt
